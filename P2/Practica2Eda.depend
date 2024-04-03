@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1699911642 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\tiempo.cpp
+	"Tiempo.h"
+	<iostream>
+	<iomanip>
+
+1699911351 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\tiempo.h
+	<iostream>
+	<iomanip>
+
+1701341046 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\participante.cpp
+	"Partcipante.h"
+	<iostream>
+	<string>
+
+1701341080 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\partcipante.h
+	<iostream>
+
+1701282356 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\pregunta.cpp
+	"Pregunta.h"
+	<iostream>
+
+1701282308 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\pregunta.h
+	<iostream>
+	"Tiempo.h"
+	<string>
+
+1701719951 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\main.cpp
+	<iostream>
+	"coleccionConMarcadeTiempo.h"
+	"PilaDinamica.h"
+	"Tiempo.h"
+	"Partcipante.h"
+	"Pregunta.h"
+	<string>
+
+1701788499 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\coleccionconmarcadetiempo.h
+	<iostream>
+	<string>
+	<sstream>
+	"PilaDinamica.h"
+
+1700560928 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\piladinamica.h
+
+1701719951 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\main.cpp
+	<iostream>
+	"coleccionConMarcadeTiempo.h"
+	"PilaDinamica.h"
+	"Tiempo.h"
+	"Partcipante.h"
+	"Pregunta.h"
+	<string>
+
+1701788499 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\coleccionconmarcadetiempo.h
+	<iostream>
+	<string>
+	<sstream>
+	"PilaDinamica.h"
+
+1700560928 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\piladinamica.h
+
+1699911351 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\tiempo.h
+	<iostream>
+	<iomanip>
+
+1701341080 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\partcipante.h
+	<iostream>
+
+1701282308 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\pregunta.h
+	<iostream>
+	"Tiempo.h"
+	<string>
+
+1702286362 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\participante.cpp
+	"Partcipante.h"
+	<iostream>
+	<string>
+
+1701282356 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\pregunta.cpp
+	"Pregunta.h"
+	<iostream>
+
+1699911642 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practica2eda\tiempo.cpp
+	"Tiempo.h"
+	<iostream>
+	<iomanip>
+
+1701719951 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\main.cpp
+	<iostream>
+	"coleccionConMarcadeTiempo.h"
+	"PilaDinamica.h"
+	"Tiempo.h"
+	"Partcipante.h"
+	"Pregunta.h"
+	<string>
+
+1701788499 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\coleccionconmarcadetiempo.h
+	<iostream>
+	<string>
+	<sstream>
+	"PilaDinamica.h"
+
+1700560928 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\piladinamica.h
+
+1699911351 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\tiempo.h
+	<iostream>
+	<iomanip>
+
+1701341080 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\partcipante.h
+	<iostream>
+
+1701282308 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\pregunta.h
+	<iostream>
+	"Tiempo.h"
+	<string>
+
+1702286362 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\participante.cpp
+	"Partcipante.h"
+	<iostream>
+	<string>
+
+1701282356 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\pregunta.cpp
+	"Pregunta.h"
+	<iostream>
+
+1699911642 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\eda\practicas\practica2eda\tiempo.cpp
+	"Tiempo.h"
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica3\primerapractica\main.cpp
+	<iostream>
+
+1697559414 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica3\primerapractica\participante.cpp
+	"Participante.h"
+
+1697554057 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica3\primerapractica\participante.h
+	<iostream>
+
+1698215790 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\primerapractica\participante.cpp
+	"Participante.h"
+	<iostream>
+
+1698215793 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\primerapractica\participante.h
+	<iostream>
+
+1698341056 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\primerapractica\main.cpp
+	<iostream>
+	<sstream>
+	"Participante.h"
+	"rondaSeleccion.h"
+
+1697703286 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\primerapractica\participante.cpp
+	"Participante.h"
+	<iostream>
+
+1698308738 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\primerapractica\rondaseleccion.h
+	<iostream>
+	<string>
+	<sstream>
+
+1698341056 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\primerapractica\main.cpp
+	<iostream>
+	<sstream>
+	"Participante.h"
+	"rondaSeleccion.h"
+
+1698215793 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\primerapractica\participante.h
+	<iostream>
+
+1698308738 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\primerapractica\rondaseleccion.h
+	<iostream>
+	<string>
+	<sstream>
+
+1698215790 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\primerapractica\participante.cpp
+	"Participante.h"
+	<iostream>
+

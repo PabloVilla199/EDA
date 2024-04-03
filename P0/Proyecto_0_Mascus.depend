@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1695671435 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\agenda.cpp
+	"Agenda.h"
+
+1695670768 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\agenda.h
+	"Contacto.h"
+
+1695725786 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\contacto.h
+	<iostream>
+
+1695671883 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\compra.cpp
+	"Compra.h"
+
+1695396319 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\compra.h
+	"product0.h"
+
+1695725607 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\product0.h
+	<iostream>
+
+1695671947 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\main.cpp
+	<iostream>
+	"Contacto.h"
+	"product0.h"
+	"agrupacion.h"
+
+1695671628 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\agrupacion.h
+
+1695725607 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\producto.cpp
+	"Product0.h"
+
+1695713333 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\contacto.cpp
+	"Contacto.h"
+
+1695667835 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\agenda.cpp
+	"Agenda.h"
+
+1695667168 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\agenda.h
+	"Contacto.h"
+
+1695722186 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\contacto.h
+	<iostream>
+
+1695668283 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\compra.cpp
+	"Compra.h"
+
+1695392719 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\compra.h
+	"product0.h"
+
+1695722007 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\product0.h
+	<iostream>
+
+1695709733 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\contacto.cpp
+	"Contacto.h"
+
+1695722007 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\eda\proyecto_0_mascus\producto.cpp
+	"Product0.h"
+
